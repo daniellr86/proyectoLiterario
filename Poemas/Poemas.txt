@@ -1,3 +1,47 @@
 POEMAS
 
+Poema Daniel sobre git y la enseñanza:
+    En el vasto mundo de códigos y algoritmos,
+donde la tecnología teje sus misterios,
+aparece un maestro en los días aciagos,
+Daniel Londoño, el profesor de los serios.
 
+Con sabiduría en su mirada profunda,
+y una pasión que trasciende los confines,
+Daniel guiaba a la empresa NEORIS sin tregua,
+en el camino de Git, sin temores ni esquives.
+
+Sus manos danzaban sobre el teclado,
+como un músico que toca un instrumento,
+y los comandos flotaban a su alrededor,
+cual notas de un concierto en movimiento.
+
+En cada línea de código escrita con arte,
+Daniel destilaba su vasta experiencia,
+y enseñaba a la tropa de aprendices,
+el poder de controlar la versión con sapiencia.
+
+Sus palabras resonaban con elocuencia,
+cual cascada de conocimiento fluido,
+y los ojos de sus alumnos brillaban,
+al descubrir los secretos del repositorio.
+
+Los commits se volvieron obras de arte,
+merced al buen hacer del maestro gitano,
+y en cada pull request, un legado quedaba,
+un rastro de aprendizaje en cada humano.
+
+Con paciencia y dedicación inquebrantable,
+Daniel Londoño se adentraba en el código,
+como un guía en la selva de binarios y ramas,
+abriendo caminos en el vasto recodo.
+
+Y así, en el firmamento digital de NEORIS,
+brillaba el nombre del maestro destacado,
+Daniel, el artífice de una revolución informática,
+que dejó huella en cada git clonado.
+
+Que sus enseñanzas se propaguen en el viento,
+que su legado crezca en cada programador,
+Daniel Londoño, el profesor excelso,
+un faro de sabiduría en el mundo de Git y amor.
